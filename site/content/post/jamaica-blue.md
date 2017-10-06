@@ -1,9 +1,10 @@
 ---
 title: 'Now in stock: small batch of Jamaican Blue Mountain in store'
-date: 2017-01-18T07:04:10-08:00
+date: 2017-01-18T15:04:10.000Z
 description: >-
   We’re proud to announce that we're now offering a small batch of Jamaica Blue
   Mountain coffee beans in our store.
+image: /img/rilakkuma.jpg
 ---
 We're excited to announce the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
 
@@ -24,4 +25,5 @@ Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classificatio
 Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
 
 The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+
 
